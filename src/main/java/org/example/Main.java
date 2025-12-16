@@ -1,17 +1,13 @@
 package org.example;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-
 
         int H = 10;
         int W = 5;
         int R = 4;
         double Pi = 3.14;
         byte C = 100;
-
 
         //применить несколько арифметических операций ( + , -, * , /) над двумя примитивами типа int
 
