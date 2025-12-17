@@ -40,7 +40,7 @@ public class Main {
 
         //  получить переполнение при арифметической операции
 
-        byte E = C + 22;
+        byte E = C + 28;
         System.out.println(E);
 
 
